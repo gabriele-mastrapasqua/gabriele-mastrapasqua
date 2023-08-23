@@ -3,7 +3,6 @@
  
 I have been working on backend and frontend technologies for more than 10+ years. I currently work as a freelance consultant and I am involved in designing and developing clean and working solutions. My greatest expertise is on typescript, react.js and next.js. I like to work on digital products with cross functional teams!
   
-I'm currently learning C# and the .NET ecosystem!
 </p>
 
 <h3 align="left">Connect with me:</h3>
@@ -38,13 +37,6 @@ I'm currently learning C# and the .NET ecosystem!
             src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg"
             alt="nodejs" width="26" height="26" />
 
-
-<img align="left" 
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
-            alt="csharp" width="26" height="26" />
-<img align="left" 
-            src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg"
-            alt="dotnet" width="26" height="26" />
 
 
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"
