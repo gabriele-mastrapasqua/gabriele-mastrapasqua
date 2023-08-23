@@ -1,7 +1,7 @@
 <h1 align="left">Hi there, I'm Gabriele 👋</h1>
 <p align="left">
  
-I have been working on backend and frontend technologies for more than 10+ years. I currently work as a freelance consultant and I am involved in designing and developing clean and working solutions. My greatest expertise is on typescript, react.js and next.js. I like to work on digital products with cross functional teams!
+I have been working on backend and frontend technologies for more than 10+ years. I currently work as a freelance consultant and I am involved in designing and developing clean and working solutions. My greatest expertise is on typescript, nodejs, react.js and next.js. I like to work on digital products with cross functional teams!
   
 </p>
 
