@@ -38,12 +38,6 @@ I have been working on backend and frontend technologies for more than 10+ years
             alt="nodejs" width="26" height="26" />
 
 
-
-<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"
-            width="26" height="26" />
-
-<img align="left" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="26" height="26" />
-
 <img align="left"
             src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg"
             alt="aws" width="26" height="26" /> 
