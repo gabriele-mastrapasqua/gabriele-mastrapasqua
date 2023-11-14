@@ -59,7 +59,7 @@ I have been working on backend and frontend technologies for more than 10+ years
 
 <p align="left">
   
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabriele-mastrapasqua&show_icons=true&locale=en&layout=default" alt="gabriele-mastrapasqua" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabriele-mastrapasqua&show_icons=true&locale=en" alt="gabriele-mastrapasqua" />
   
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=gabriele-mastrapasqua&show_icons=true&locale=en" alt="gabriele-mastrapasqua" /></p>
 
