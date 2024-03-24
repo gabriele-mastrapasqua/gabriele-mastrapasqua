@@ -19,6 +19,20 @@ I have been working on backend and frontend technologies for more than 10+ years
             alt="typescript" width="26" height="26" />
 
 <img align="left"
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg"
+            alt="python" width="26" height="26" />
+
+
+<img align="left"
+            src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"
+            alt="aws" width="26" height="26" /> 
+
+<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
+            alt="docker" width="26" height="26" />
+
+
+
+<img align="left"
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
             alt="javascript" width="26" height="26" />
 
@@ -37,13 +51,6 @@ I have been working on backend and frontend technologies for more than 10+ years
             src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg"
             alt="nodejs" width="26" height="26" />
 
-
-<img align="left"
-            src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg"
-            alt="aws" width="26" height="26" /> 
-
-<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
-            alt="docker" width="26" height="26" />
 
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git" width="26" height="26" />
 
