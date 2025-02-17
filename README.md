@@ -1,6 +1,6 @@
 # Hi there, I'm Gabriele 👋
 
-I have been working on backend and frontend technologies for more than 10+ years. I currently work as a freelance consultant and I am involved in designing and developing clean and working solutions. My greatest expertise is on typescript, python, aws, nodejs, react.js and next.js. I like to work on digital products with cross functional teams!
+I have been working on backend and frontend technologies for more than 15+ years. I currently work as a freelance consultant and I am involved in designing and developing clean and working solutions. My greatest expertise is on typescript, python, aws, nodejs, react.js and next.js. I like to work on digital products with cross functional teams!
 
 ## Connect with me:
 <p align="left">
