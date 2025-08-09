@@ -2,7 +2,12 @@
 
 I have been working on backend and frontend technologies for more than 15+ years. I currently work as a freelance consultant and I am involved in designing and developing clean and working solutions. My greatest expertise is on typescript, python, aws, nodejs, react.js and next.js. I like to work on digital products with cross functional teams!
 
-## Connect with me:
+## Current Projects
+- [FastAPI-OCR] (https://github.com/gabriele-mastrapasqua/fastapi-ocr) - An API service to use OCR (tesseract / paddleocr) on PDFs / images with auto rotation of pages if needed, LLM friendly image pre-processing and conversion
+- [chcrypto](https://github.com/gabriele-mastrapasqua/chcrypto) - A realtime clickhouse analytical tool for crypto transactions data like ethscan. it uses kafka as a realtime firehose of messages > clickhouse for storage and fast retrival using materialized views, grafana to see performance of the database, and a custom api to make common crypto related queries
+- [aws terraform microservice](https://github.com/gabriele-mastrapasqua/terraform_java_microservice) - a sample java app using terraform to deploy in AWS. It configure a WAF, using beanstalk for handling ec2 and autoscaling and LB, use mysql as db. 
+
+## Connect
 <p align="left">
 <a href="https://linkedin.com/in/gabriele-mastrapasqua-76ba55110" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="gabriele-mastrapasqua-76ba55110" height="30" width="40" /></a>
 <a href="https://dev.to/gabrielemastrapasqua" target="blank"><img align="center" src="https://d2fltix0v2e0sb.cloudfront.net/dev-rainbow.svg" alt="gabrielemastrapasqua" height="30" width="40" /></a>
