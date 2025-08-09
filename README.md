@@ -27,7 +27,9 @@
 
 <br/>
 
+<p>
 > I have been working on backend and frontend technologies for more than 15+ years. I currently work as a freelance consultant and I am involved in designing and developing clean and working solutions. My greatest expertise is on typescript, python, aws, nodejs, react.js and next.js. I like to work on digital products with cross functional teams!
+</p>
 
 ## Current Projects
 - [FastAPI-OCR](https://github.com/gabriele-mastrapasqua/fastapi-ocr) - An API service to use OCR (tesseract / paddleocr) on PDFs / images with auto rotation of pages if needed, LLM friendly image pre-processing and conversion
