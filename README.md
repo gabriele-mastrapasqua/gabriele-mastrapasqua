@@ -1,5 +1,8 @@
 # Hi there, I'm Gabriele 👋
 
+📍 **Milan ↔ Remote** | 🤖 **Software Developer / Part-time Freelance Consultant** 🚀 
+
+
 <p align="left"> 
 <img align="left"
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
