@@ -1,6 +1,6 @@
 # Hi there, I'm Gabriele 👋
 
-📍 **Milan ↔ Remote** | 🤖 **Software Developer / Part-time Freelance Consultant** 🚀 
+📍 **Milan ↔ Remote** | 🤖 **Software Developer / Freelance Consultant** 🚀 
 
 
 <p align="left"> 
@@ -41,21 +41,6 @@
 - [chcrypto](https://github.com/gabriele-mastrapasqua/chcrypto) - A realtime clickhouse analytical tool for crypto transactions data like ethscan. it uses kafka as a realtime firehose of messages > clickhouse for storage and fast retrival using materialized views, grafana to see performance of the database, and a custom api to make common crypto related queries
 - [aws terraform microservice](https://github.com/gabriele-mastrapasqua/terraform_java_microservice) - a sample java app using terraform to deploy it in AWS. It configure a WAF, using beanstalk for handling ec2 and autoscaling and LB, use mysql as db. 
 
-
-# GitHub Stats 📊:
-![](https://github-readme-stats.vercel.app/api?username=gabriele-mastrapasqua&theme=radical&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=gabriele-mastrapasqua&theme=radical&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriele-mastrapasqua&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-## GitHub Trophies 🏆
-![](https://github-profile-trophy.vercel.app/?username=gabriele-mastrapasqua&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-## Connect
-<p align="left">
-<a href="https://linkedin.com/in/gabriele-mastrapasqua-76ba55110" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="gabriele-mastrapasqua-76ba55110" height="30" width="40" /></a>
-<a href="https://dev.to/gabrielemastrapasqua" target="blank"><img align="center" src="https://d2fltix0v2e0sb.cloudfront.net/dev-rainbow.svg" alt="gabrielemastrapasqua" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/gabriele_mastra1" target="blank"><img align="center" src="https://hrcdn.net/fcore/assets/favicon-ddc852f75a.png" alt="gabriele_mastra1" height="30" width="30" /></a>
-</p>
 
 
 
