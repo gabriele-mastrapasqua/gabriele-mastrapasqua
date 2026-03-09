@@ -1,6 +1,6 @@
 # Hi there, I'm Gabriele 👋
 
-📍 **Milan ↔ Remote** | 🤖 **Software Developer / Freelance Consultant** 🚀 
+📍 **Milan ↔ Remote** | 🤖 **Software Developer | Freelance Consultant** 🚀 
 
 
 <p align="left"> 
@@ -27,12 +27,6 @@
             alt="SQL" width="26" height="26" />
 
 </p>
-
-<br/>
-<br/>
-
-
-> I have been working on backend and frontend technologies for more than 15+ years. I currently work as a freelance consultant and I am involved in designing and developing clean and working solutions. My greatest expertise is on typescript, python, aws, nodejs, react.js and next.js. I like to work on digital products with cross functional teams!
 
 
 ## Current Projects
