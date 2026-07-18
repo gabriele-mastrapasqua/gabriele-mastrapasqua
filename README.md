@@ -32,6 +32,7 @@
 
 ## Current Projects
 - [qwen3-tts](https://github.com/gabriele-mastrapasqua/qwen3-tts): Pure C inference engine for Qwen3-TTS text-to-speech. No Python, no PyTorch — just C and BLAS. Supports 0.6B and 1.7B models, 9 voices, 10 languages.
+- [mynah](https://github.com/gabriele-mastrapasqua/mynah): Pure C inference engine for NVIDIA NeMo ASR (Nemotron, Parakeet, Canary), llama.cpp-style. Streaming + offline speech recognition and translation, word timestamps, int8/int4 quantization, CPU/Metal backends.
 - [linklore](https://github.com/gabriele-mastrapasqua/linklore): Bookmarks you actually own — local-first link manager with hybrid search (FTS5 + semantic), private RAG chat with citations, and an LLM-optional pipeline. One Go binary, one SQLite file. No accounts, no SaaS, no telemetry.
 - [AWS book: Cloud Practitioner Exam Guide](https://bpbonline.com/products/aws-cloud-practitioner-exam-guide) - A book about Amazon Web Services that I have written, useful to better understand AWS main services and to prepare for the first certification exam. I have written this to collect and help others to have all the informations needed to work seamlessly with AWS cloud.
 - [FastAPI-OCR](https://github.com/gabriele-mastrapasqua/fastapi-ocr) - An API service to use OCR (tesseract / paddleocr) on PDFs / images with auto rotation of pages if needed, LLM friendly image pre-processing and conversion
