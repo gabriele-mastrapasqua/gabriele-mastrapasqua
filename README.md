@@ -1,41 +1,40 @@
 # Hi there, I'm Gabriele 👋
 
-📍 **Milan ↔ Remote** | 🤖 **Software Developer | Freelance Consultant** 🚀 
+📍 **Milan ↔ Remote** | 🤖 **Software Developer · Freelance Consultant**
+
+I build high-performance AI infrastructure, inference engines, and cloud-native systems. My work focuses on **speech AI (ASR/TTS)**, **LLM inference**, **local-first AI**, and **distributed backend architectures**.
 
 
-<p align="left"> 
-<img align="left"
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-            alt="typescript" width="26" height="26" />
+## 🚀 Current Projects
 
-<img align="left"
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg"
-            alt="python" width="26" height="26" />
+### 🐦 Mynah Open Source
 
+Building production-ready AI inference engines written in pure C.
 
-<img align="left"
-            src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"
-            alt="aws" width="26" height="26" /> 
+* **[mynah-org](https://github.com/mynah-org)** — Open-source organization focused on fast, local AI inference.
 
-<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
-            alt="docker" width="26" height="26" />
+  * **[mynah-asr](https://github.com/mynah-org/mynah-asr)** — llama.cpp-style inference engine for NVIDIA NeMo ASR models (Nemotron, Parakeet, Canary) with streaming & offline speech recognition, translation, word timestamps, int8/int4 quantization, CPU & Metal backends.
+  * **[mynah-tts](https://github.com/mynah-org/mynah-tts)** — High-performance Text-to-Speech inference engine written in pure C, bringing fast, local and production-ready speech synthesis to the Mynah ecosystem.
 
-<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git" width="26" height="26" />
+### ⭐ Featured Projects
 
-<img align="left"
-            src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"
-            alt="SQL" width="26" height="26" />
+* **[qwen3-tts](https://github.com/gabriele-mastrapasqua/qwen3-tts)** — Pure C inference engine for Qwen3-TTS. No Python, no PyTorch—just C and BLAS. Supports 0.6B & 1.7B models, 9 voices, 10 languages, streaming inference, and CPU/Metal backends.
 
-</p>
+* **[linklore](https://github.com/gabriele-mastrapasqua/linklore)** — Local-first bookmark manager with hybrid search (FTS5 + semantic), private RAG chat with citations, one Go binary, one SQLite database, and no SaaS or telemetry.
 
-<br/>
+* **[FastAPI-OCR](https://github.com/gabriele-mastrapasqua/fastapi-ocr)** — OCR API for PDFs and images with automatic page rotation, LLM-friendly preprocessing, and support for Tesseract and PaddleOCR.
 
-## Current Projects
-- [qwen3-tts](https://github.com/gabriele-mastrapasqua/qwen3-tts): Pure C inference engine for Qwen3-TTS text-to-speech. No Python, no PyTorch — just C and BLAS. Supports 0.6B and 1.7B models, 9 voices, 10 languages.
-- [mynah-asr](https://github.com/mynah-org/mynah-asr): Pure C inference engine for NVIDIA NeMo ASR (Nemotron, Parakeet, Canary), llama.cpp-style. Streaming + offline speech recognition and translation, word timestamps, int8/int4 quantization, CPU/Metal backends.
-- [linklore](https://github.com/gabriele-mastrapasqua/linklore): Bookmarks you actually own — local-first link manager with hybrid search (FTS5 + semantic), private RAG chat with citations, and an LLM-optional pipeline. One Go binary, one SQLite file. No accounts, no SaaS, no telemetry.
-- [AWS book: Cloud Practitioner Exam Guide](https://bpbonline.com/products/aws-cloud-practitioner-exam-guide) - A book about Amazon Web Services that I have written, useful to better understand AWS main services and to prepare for the first certification exam. I have written this to collect and help others to have all the informations needed to work seamlessly with AWS cloud.
-- [FastAPI-OCR](https://github.com/gabriele-mastrapasqua/fastapi-ocr) - An API service to use OCR (tesseract / paddleocr) on PDFs / images with auto rotation of pages if needed, LLM friendly image pre-processing and conversion
-- [chcrypto](https://github.com/gabriele-mastrapasqua/chcrypto) - A realtime clickhouse analytical tool for crypto transactions data like ethscan. it uses kafka as a realtime firehose of messages > clickhouse for storage and fast retrival using materialized views, grafana to see performance of the database, and a custom api to make common crypto related queries
+* **[chcrypto](https://github.com/gabriele-mastrapasqua/chcrypto)** — Real-time blockchain analytics platform powered by Kafka, ClickHouse, Grafana, and a custom API.
 
+* **📘 [AWS Cloud Practitioner Exam Guide](https://bpbonline.com/products/aws-cloud-practitioner-exam-guide)** — A practical guide covering AWS fundamentals and Cloud Practitioner certification.
 
+## 💡 Areas of Interest
+
+* High-performance AI inference
+* Automatic Speech Recognition (ASR)
+* Text-to-Speech (TTS)
+* Large Language Models
+* Distributed Systems
+* Cloud Infrastructure (AWS)
+* Go, C, Python & TypeScript
+* Local-first Software
